@@ -2,6 +2,7 @@
 
 ## 团队结构
 * [Facebook，Google这些美国科技公司的福利待遇，工作环境，都那么好，员工们还有工作的动力么？](https://www.zhihu.com/question/30611641/answer/49339832)
+* [如何管理比自己优秀十倍的员工？](http://mp.weixin.qq.com/s?__biz=MzA3ODk5OTEzOA==&mid=2962110788&idx=1&sn=d1d1fec230328eeb3a58367005803842)
 * [Matt Welsh: Running a software team at Google](http://matt-welsh.blogspot.sg/2013/04/running-software-team-at-google.html)
 * [Building Effective Microservice Teams -- Mike Amundsen](http://amundsen.com/talks/2016-03-qconsp-teams/index.html)
 
