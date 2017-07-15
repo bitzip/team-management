@@ -8,8 +8,8 @@
 
 ## 技术氛围
 * [洪强宁：如何保持团队的技术氛围？](http://chuansong.me/n/316956251648)
-* [张一鸣：我遇到的优秀年轻人的5个特质] (https://36kr.com/p/5051266.html)
+* [张一鸣：我遇到的优秀年轻人的5个特质](https://36kr.com/p/5051266.html)
 
 ## 绩效管理
 * [覃超：Facebook的项目开发流程和工程师的绩效管理机制](http://toutiao.com/i6281384624895558146/)
-* [英特尔和 Google 的 OKR 制度与我们一般所说的 KPI 有什么不同？] (http://zhihu.com/question/22478049/answer/23833548)
+* [英特尔和 Google 的 OKR 制度与我们一般所说的 KPI 有什么不同？](http://zhihu.com/question/22478049/answer/23833548)
