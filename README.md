@@ -13,3 +13,7 @@
 ## 绩效管理
 * [覃超：Facebook的项目开发流程和工程师的绩效管理机制](http://toutiao.com/i6281384624895558146/)
 * [英特尔和 Google 的 OKR 制度与我们一般所说的 KPI 有什么不同？](http://zhihu.com/question/22478049/answer/23833548)
+
+## 相关研究
+* [Peter principle](https://en.wikipedia.org/wiki/Peter_principle)
+* [Parkinson's law](https://en.wikipedia.org/wiki/Parkinson%27s_law)
