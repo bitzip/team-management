@@ -18,3 +18,4 @@
 ## 相关研究
 * [Peter principle](https://en.wikipedia.org/wiki/Peter_principle)
 * [Parkinson's law](https://en.wikipedia.org/wiki/Parkinson%27s_law)
+* [Heinrich's Law](https://en.wikipedia.org/wiki/Herbert_William_Heinrich#Heinrich's_Law)
